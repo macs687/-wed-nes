@@ -1,0 +1,56 @@
+.reg{
+    text-align: center;
+    clear: both;
+    size: 50px;
+    margin: 0;
+    margin-top: 0;
+}
+
+
+h1{
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.reg1{
+    margin-right: 150px;
+    text-align: center;
+    margin: 15px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+.reg2{
+    margin-right: 150px;
+    text-align: center;
+    margin: 15px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+.reg3{
+    margin-right: 150px;
+    text-align: center;
+    margin: 15px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+.reg4{
+    margin-right: 150px;
+    text-align: center;
+    margin: 15px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+p{
+    margin-bottom: auto;
+}
+.but1{
+    margin: 5px;
+}
+.void{
+    margin-top: auto;
+    margin-bottom: 5px;
+}
